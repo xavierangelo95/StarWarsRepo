@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Predator
 Tarts
 Huguers
+=======
+Uma linha no arquivo
+>>>>>>> parent of 4d88932... Editado o arquivo sharks e criado o arquivo planetas
